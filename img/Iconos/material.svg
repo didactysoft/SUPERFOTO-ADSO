@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="100mm" height="100mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 12932 12932"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <font id="FontID0" horiz-adv-x="722" font-variant="normal" style="fill-rule:nonzero" font-weight="700">
+	<font-face 
+		font-family="Arial">
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="X" horiz-adv-x="666"><path d="M0.501004 0l247.167 373.332 -224.167 342.667 168.832 0 141 -213.167 141 213.167 169.167 0 -224.668 -342.833 246.666 -373.166 -173.666 0 -158.665 242.499 -158.834 -242.499 -173.832 0z"/></glyph>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Arial";src:url("#FontID0") format(svg)}
+    .fil3 {fill:#666666}
+    .fil1 {fill:#999999}
+    .fil0 {fill:#CCCCCC}
+    .fil2 {fill:#E6E6E6}
+    .fil5 {fill:red}
+    .fil4 {fill:yellow;fill-rule:nonzero}
+    .fnt0 {font-weight:bold;font-size:3974.93px;font-family:'Arial'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Capa_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_832194960">
+   <path class="fil0" d="M12662 3297l-9968 0c-149,0 -269,90 -269,201l0 8029c0,110 120,200 269,200l7813 0c149,0 269,-90 269,-200l0 -1405 1886 0c149,0 269,-90 269,-201l0 -6423c0,-111 -120,-201 -269,-201z"/>
+   <path class="fil1" d="M12911 9844c-42,-75 -140,-124 -249,-124l-2155 0c-149,0 -270,90 -270,201l0 1606c0,81 66,154 167,185 32,10 67,15 103,15 71,0 140,-21 190,-58l2156 -1606c77,-58 100,-144 58,-219z"/>
+   <path class="fil1" d="M5119 4502l-4850 0c-148,0 -269,90 -269,200l0 6825c0,787 1185,1405 2694,1405 1509,0 2694,-618 2694,-1405l0 -6825c0,-110 -121,-200 -269,-200z"/>
+   <path class="fil2" d="M2694 3297c-1509,0 -2694,618 -2694,1405 0,788 1185,1405 2694,1405 1509,0 2694,-617 2694,-1405 0,-787 -1185,-1405 -2694,-1405z"/>
+   <path class="fil3" d="M2694 4100c-604,0 -1078,265 -1078,602 0,338 474,603 1078,603 604,0 1078,-265 1078,-603 0,-337 -474,-602 -1078,-602z"/>
+   <g>
+    <path class="fil4" d="M11574 2073l-3143 0 0 -259 3143 0 0 259zm-1358 598l0 -1455 2715 728 -2715 727z"/>
+   </g>
+   <g>
+    <path class="fil4" d="M1358 1814l3142 0 0 259 -3142 0 0 -259zm1357 -598l0 1455 -2715 -727 2715 -728z"/>
+   </g>
+   <g transform="matrix(1.12845 0 0 1 -51447.7 -3033.59)">
+    <text x="50000" y="5880"  class="fil5 fnt0">X</text>
+   </g>
+  </g>
+ </g>
+</svg>
